@@ -1,5 +1,6 @@
 import React from 'react'
 import About from './components/About';
+import AllInOne from './components/AllInOne';
 import Developers from './components/Developers';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
@@ -13,6 +14,7 @@ function App() {
         <Hero />
         <About />
         <Developers />
+        <AllInOne />
         <Subscribe />
         <Footer />
     </div>
